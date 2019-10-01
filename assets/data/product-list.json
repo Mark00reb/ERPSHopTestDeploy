@@ -9,6 +9,7 @@
   ],
   "onSale": false,
   "costPrice": 400,
+  "salePrice": 200,
   "inStock": true,
   "options": []
 },
